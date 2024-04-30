@@ -99,12 +99,12 @@
 # phần 4
 # bài 1,2,3
 
-username = input("username :")
-email = input("Eamil :")
-password = input('Mật khẩu :')
-password2 =input('Nhập lại mật khẩu :')
-def password(password, password2):
-    if password == password2:
-        print("Mật khẩu hợp lệ.")
-    else:
-        print("Mật khẩu không khớp. Vui lòng nhập lại.")
+# username = input("username :")
+# email = input("Eamil :")
+# password = input('Mật khẩu :')
+# password2 =input('Nhập lại mật khẩu :')
+# def password(password, password2):
+#     if password == password2:
+#         print("Mật khẩu hợp lệ.")
+#     else:
+#         print("Mật khẩu không khớp. Vui lòng nhập lại.")
