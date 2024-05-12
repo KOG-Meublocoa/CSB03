@@ -80,10 +80,10 @@
 
 # 4. In ra các  số chia hết cho 3 từ 0 đến 20, mỗi số một dòng
 
-for i in range(21):
-    if i % 3 == 0:
-        print(i,end=" ")
-print("\n")
+# for i in range(21):
+#     if i % 3 == 0:
+#         print(i,end=" ")
+# print("\n")
 
 
 
