@@ -96,13 +96,13 @@
 # character["Pocket"] = ["MonsterDex", "Flashlight"]
 # print(character)
 
-students_details = {
-    "Alice": {"age": 20, "score": 85},
-    "Bob": {"age": 22, "score": 92},
-    "Charlie": {"age": 21, "score": 78},
-}
-if "David" in students_details:
-   print(students_details["David"])
-else:
-   print("David khong co trong danh sach")
+# students_details = {
+#     "Alice": {"age": 20, "score": 85},
+#     "Bob": {"age": 22, "score": 92},
+#     "Charlie": {"age": 21, "score": 78},
+# }
+# if "David" in students_details:
+#    print(students_details["David"])
+# else:
+#    print("David khong co trong danh sach")
 
