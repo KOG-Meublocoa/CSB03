@@ -129,15 +129,15 @@
 
 # phan 7
 # cau 1
-skills = [  
-    {"Skill 1" : "Tackle", "Minimum level": 1, "Damage": 5, "Hit rate": 0.3},
-    {"Skill 2" :"Quick Attack", "Minimum level": 2, "Damage": 3, "Hit rate": 0.5},
-    {"Skill 3 ": "Strong Kick", "Minimum level": 4, "Damage": 9, "Hit rate": 0.2},
-]
+# skills = [  
+#     {"Skill 1" : "Tackle", "Minimum level": 1, "Damage": 5, "Hit rate": 0.3},
+#     {"Skill 2" :"Quick Attack", "Minimum level": 2, "Damage": 3, "Hit rate": 0.5},
+#     {"Skill 3 ": "Strong Kick", "Minimum level": 4, "Damage": 9, "Hit rate": 0.2},
+# ]
 
-# cau 2
-for skill in skills:
-    print(skill["Name"])
+# # cau 2
+# for skill in skills:
+#     print(skill["Name"])
 
 
 
