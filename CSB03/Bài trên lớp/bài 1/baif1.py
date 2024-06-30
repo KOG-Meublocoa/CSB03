@@ -43,18 +43,18 @@
 # mainloop()
 
 
-from turtle import *
-pen
-speed(100)
-color("green")
-left(144)
-forward(300)
-right(144)
-forward(300)
-right(144)
-forward(300)
-right(144)
-forward(300)
-right(144)
-forward(300)
-mainloop()
+# from turtle import *
+# pen
+# speed(100)
+# color("green")
+# left(144)
+# forward(300)
+# right(144)
+# forward(300)
+# right(144)
+# forward(300)
+# right(144)
+# forward(300)
+# right(144)
+# forward(300)
+# mainloop()
